@@ -1,0 +1,7 @@
+C:\Users\sara.souza\source\repos\Alura.CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\sara.souza\source\repos\Alura.CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\sara.souza\source\repos\Alura.CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\sara.souza\source\repos\Alura.CSharp\ConsoleApp1\obj\Debug\4 -Conversões e outros tipos.csproj.CoreCompileInputs.cache
+C:\Users\sara.souza\source\repos\Alura.CSharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sara.souza\source\repos\Alura.CSharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\sara.souza\source\repos\Alura.CSharp\ConsoleApp1\obj\Debug\4 -Conversões e outros tipos.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\sara.souza\source\repos\Alura.CSharp\Criando variáveis.Flutuante\bin\Debug\Criando variáveis.Flutuante.exe.config
+C:\Users\sara.souza\source\repos\Alura.CSharp\Criando variáveis.Flutuante\bin\Debug\Criando variáveis.Flutuante.exe
+C:\Users\sara.souza\source\repos\Alura.CSharp\Criando variáveis.Flutuante\bin\Debug\Criando variáveis.Flutuante.pdb
+C:\Users\sara.souza\source\repos\Alura.CSharp\Criando variáveis.Flutuante\obj\Debug\3 -Criando variáveis.Flutuante.csprojAssemblyReference.cache
+C:\Users\sara.souza\source\repos\Alura.CSharp\Criando variáveis.Flutuante\obj\Debug\3 -Criando variáveis.Flutuante.csproj.CoreCompileInputs.cache
+C:\Users\sara.souza\source\repos\Alura.CSharp\Criando variáveis.Flutuante\obj\Debug\Criando variáveis.Flutuante.exe
+C:\Users\sara.souza\source\repos\Alura.CSharp\Criando variáveis.Flutuante\obj\Debug\Criando variáveis.Flutuante.pdb

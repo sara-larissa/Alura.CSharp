@@ -1,0 +1,7 @@
+C:\Users\sara.souza\source\repos\Alura.CSharp\2-CriandoVariáveis\bin\Debug\2-CriandoVariáveis.exe.config
+C:\Users\sara.souza\source\repos\Alura.CSharp\2-CriandoVariáveis\bin\Debug\2-CriandoVariáveis.exe
+C:\Users\sara.souza\source\repos\Alura.CSharp\2-CriandoVariáveis\bin\Debug\2-CriandoVariáveis.pdb
+C:\Users\sara.souza\source\repos\Alura.CSharp\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.csprojAssemblyReference.cache
+C:\Users\sara.souza\source\repos\Alura.CSharp\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.csproj.CoreCompileInputs.cache
+C:\Users\sara.souza\source\repos\Alura.CSharp\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.exe
+C:\Users\sara.souza\source\repos\Alura.CSharp\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.pdb

@@ -1,0 +1,7 @@
+C:\Users\sara.souza\source\repos\Alura.CSharp\Alura.CSharp\bin\Debug\Alura.CSharp.exe.config
+C:\Users\sara.souza\source\repos\Alura.CSharp\Alura.CSharp\bin\Debug\Alura.CSharp.exe
+C:\Users\sara.souza\source\repos\Alura.CSharp\Alura.CSharp\bin\Debug\Alura.CSharp.pdb
+C:\Users\sara.souza\source\repos\Alura.CSharp\Alura.CSharp\obj\Debug\Alura.CSharp.csprojAssemblyReference.cache
+C:\Users\sara.souza\source\repos\Alura.CSharp\Alura.CSharp\obj\Debug\Alura.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\sara.souza\source\repos\Alura.CSharp\Alura.CSharp\obj\Debug\Alura.CSharp.exe
+C:\Users\sara.souza\source\repos\Alura.CSharp\Alura.CSharp\obj\Debug\Alura.CSharp.pdb
