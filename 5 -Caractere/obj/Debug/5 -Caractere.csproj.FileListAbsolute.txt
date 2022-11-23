@@ -1,0 +1,7 @@
+C:\Users\sara.souza\source\repos\Alura.CSharp\5 -Caractere\bin\Debug\5 -Caractere.exe.config
+C:\Users\sara.souza\source\repos\Alura.CSharp\5 -Caractere\bin\Debug\5 -Caractere.exe
+C:\Users\sara.souza\source\repos\Alura.CSharp\5 -Caractere\bin\Debug\5 -Caractere.pdb
+C:\Users\sara.souza\source\repos\Alura.CSharp\5 -Caractere\obj\Debug\5 -Caractere.csproj.CoreCompileInputs.cache
+C:\Users\sara.souza\source\repos\Alura.CSharp\5 -Caractere\obj\Debug\5 -Caractere.exe
+C:\Users\sara.souza\source\repos\Alura.CSharp\5 -Caractere\obj\Debug\5 -Caractere.pdb
+C:\Users\sara.souza\source\repos\Alura.CSharp\5 -Caractere\obj\Debug\5 -Caractere.csprojAssemblyReference.cache
