@@ -13,7 +13,7 @@ namespace Alura.CSharp
             Console.WriteLine("Projeto 2 - Criando Variáveis");
              
             int idade;
-            idade = 24;
+            idade = 24 ;
             Console.WriteLine("Minha idade é " + idade);
 
             idade = 27 - 3;
