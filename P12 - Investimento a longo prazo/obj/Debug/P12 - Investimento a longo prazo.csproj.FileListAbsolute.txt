@@ -1,0 +1,6 @@
+C:\Git\Alura.CSharp\P12 - Investimento a longo prazo\bin\Debug\P12 - Investimento a longo prazo.exe.config
+C:\Git\Alura.CSharp\P12 - Investimento a longo prazo\bin\Debug\P12 - Investimento a longo prazo.exe
+C:\Git\Alura.CSharp\P12 - Investimento a longo prazo\bin\Debug\P12 - Investimento a longo prazo.pdb
+C:\Git\Alura.CSharp\P12 - Investimento a longo prazo\obj\Debug\P12 - Investimento a longo prazo.csproj.CoreCompileInputs.cache
+C:\Git\Alura.CSharp\P12 - Investimento a longo prazo\obj\Debug\P12 - Investimento a longo prazo.exe
+C:\Git\Alura.CSharp\P12 - Investimento a longo prazo\obj\Debug\P12 - Investimento a longo prazo.pdb

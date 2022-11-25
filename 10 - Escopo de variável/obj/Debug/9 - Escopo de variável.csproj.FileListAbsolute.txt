@@ -1,0 +1,7 @@
+C:\Git\Alura.CSharp\10 - Escopo de variável\bin\Debug\10 - Escopo de variável.exe.config
+C:\Git\Alura.CSharp\10 - Escopo de variável\bin\Debug\10 - Escopo de variável.exe
+C:\Git\Alura.CSharp\10 - Escopo de variável\bin\Debug\10 - Escopo de variável.pdb
+C:\Git\Alura.CSharp\10 - Escopo de variável\obj\Debug\9 - Escopo de variável.csprojAssemblyReference.cache
+C:\Git\Alura.CSharp\10 - Escopo de variável\obj\Debug\9 - Escopo de variável.csproj.CoreCompileInputs.cache
+C:\Git\Alura.CSharp\10 - Escopo de variável\obj\Debug\10 - Escopo de variável.exe
+C:\Git\Alura.CSharp\10 - Escopo de variável\obj\Debug\10 - Escopo de variável.pdb

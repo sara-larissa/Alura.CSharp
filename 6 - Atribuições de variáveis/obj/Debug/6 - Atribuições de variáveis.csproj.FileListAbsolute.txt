@@ -1,0 +1,7 @@
+C:\Git\Alura.CSharp\6 - Atribuições de variáveis\bin\Debug\6 - Atribuições de variáveis.exe.config
+C:\Git\Alura.CSharp\6 - Atribuições de variáveis\bin\Debug\6 - Atribuições de variáveis.exe
+C:\Git\Alura.CSharp\6 - Atribuições de variáveis\bin\Debug\6 - Atribuições de variáveis.pdb
+C:\Git\Alura.CSharp\6 - Atribuições de variáveis\obj\Debug\6 - Atribuições de variáveis.csprojAssemblyReference.cache
+C:\Git\Alura.CSharp\6 - Atribuições de variáveis\obj\Debug\6 - Atribuições de variáveis.csproj.CoreCompileInputs.cache
+C:\Git\Alura.CSharp\6 - Atribuições de variáveis\obj\Debug\6 - Atribuições de variáveis.exe
+C:\Git\Alura.CSharp\6 - Atribuições de variáveis\obj\Debug\6 - Atribuições de variáveis.pdb

@@ -1,0 +1,7 @@
+C:\Git\Alura.CSharp\P11 - Laço de repetição FOR\bin\Debug\P11 - Laço de repetição FOR.exe.config
+C:\Git\Alura.CSharp\P11 - Laço de repetição FOR\bin\Debug\P11 - Laço de repetição FOR.exe
+C:\Git\Alura.CSharp\P11 - Laço de repetição FOR\bin\Debug\P11 - Laço de repetição FOR.pdb
+C:\Git\Alura.CSharp\P11 - Laço de repetição FOR\obj\Debug\P11 - Laço de repetição FOR.csproj.CoreCompileInputs.cache
+C:\Git\Alura.CSharp\P11 - Laço de repetição FOR\obj\Debug\P11 - Laço de repetição FOR.exe
+C:\Git\Alura.CSharp\P11 - Laço de repetição FOR\obj\Debug\P11 - Laço de repetição FOR.pdb
+C:\Git\Alura.CSharp\P11 - Laço de repetição FOR\obj\Debug\P11 - Laço de repetição FOR.csprojAssemblyReference.cache

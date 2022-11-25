@@ -1,0 +1,7 @@
+C:\Git\Alura.CSharp\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Git\Alura.CSharp\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Git\Alura.CSharp\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Git\Alura.CSharp\ConsoleApp2\obj\Debug\7 - Condicionais.csprojAssemblyReference.cache
+C:\Git\Alura.CSharp\ConsoleApp2\obj\Debug\7 - Condicionais.csproj.CoreCompileInputs.cache
+C:\Git\Alura.CSharp\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Git\Alura.CSharp\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

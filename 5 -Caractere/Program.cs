@@ -22,8 +22,22 @@ namespace _5__Caractere
             letra = (char)(65 + 1); // 65 = a + 1 = 66
             Console.WriteLine(letra);
 
+            string primeiraFrase = "Alura - cursos de tecnologia ";
+            Console.WriteLine(primeiraFrase +  2022);
+
+            string cursos = @"Cursos disponíveis:  
+- JS 
+- C# 
+- HTML 
+- CSS";  //@PARA DIVIDIR LINHAS, UMA EM BAIXO DA OUTRA; 
+            Console.WriteLine(cursos);
+
             Console.WriteLine("Tecle ok para continuar");
             Console.ReadLine();
+
+
+
+            
         }
     }
 }

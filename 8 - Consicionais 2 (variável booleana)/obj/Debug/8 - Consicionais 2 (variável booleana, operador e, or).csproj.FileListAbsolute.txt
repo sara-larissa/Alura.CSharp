@@ -1,0 +1,6 @@
+C:\Git\Alura.CSharp\8 - Consicionais 2 (variável booleana)\bin\Debug\8 - Consicionais 2 (variável booleana).exe.config
+C:\Git\Alura.CSharp\8 - Consicionais 2 (variável booleana)\bin\Debug\8 - Consicionais 2 (variável booleana).exe
+C:\Git\Alura.CSharp\8 - Consicionais 2 (variável booleana)\bin\Debug\8 - Consicionais 2 (variável booleana).pdb
+C:\Git\Alura.CSharp\8 - Consicionais 2 (variável booleana)\obj\Debug\8 - Consicionais 2 (variável booleana, operador e, or).csproj.CoreCompileInputs.cache
+C:\Git\Alura.CSharp\8 - Consicionais 2 (variável booleana)\obj\Debug\8 - Consicionais 2 (variável booleana).exe
+C:\Git\Alura.CSharp\8 - Consicionais 2 (variável booleana)\obj\Debug\8 - Consicionais 2 (variável booleana).pdb

@@ -1,0 +1,7 @@
+C:\Git\Alura.CSharp\P13 - Break\bin\Debug\P13 - Break.exe.config
+C:\Git\Alura.CSharp\P13 - Break\bin\Debug\P13 - Break.exe
+C:\Git\Alura.CSharp\P13 - Break\bin\Debug\P13 - Break.pdb
+C:\Git\Alura.CSharp\P13 - Break\obj\Debug\P13 - Break.csprojAssemblyReference.cache
+C:\Git\Alura.CSharp\P13 - Break\obj\Debug\P13 - Break.csproj.CoreCompileInputs.cache
+C:\Git\Alura.CSharp\P13 - Break\obj\Debug\P13 - Break.exe
+C:\Git\Alura.CSharp\P13 - Break\obj\Debug\P13 - Break.pdb
